@@ -1,2 +1,2 @@
 # Ignore the opencv-venv virtual environment within the config folder
-/config/opencv-venv/
+./config/opencv-venv/
